@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://10.31.23.10/mfs/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://10.31.23.10/mfs
+IDList=
+HotKey=0
